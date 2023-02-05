@@ -1,0 +1,20 @@
+.transactionHistory {
+    border: 1px solid black;
+    margin: 0 auto 30px auto;
+    width: 90vw;
+    border-radius: 5px;
+}
+
+thead {
+  background-color: #167bce;
+  color: #ffffff;
+}
+
+tr {
+  text-align: center;
+  height: 45px;
+}
+
+tr:nth-child(2n) {
+  background-color: #f1f1f1;
+}

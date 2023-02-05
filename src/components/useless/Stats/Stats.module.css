@@ -1,0 +1,13 @@
+.label {
+    color: rgb(145, 145, 145);
+}
+
+.quantity {
+    font-weight: bold;
+}
+
+li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
